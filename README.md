@@ -64,7 +64,7 @@ Implementamos medidas de seguridad como:
 - Monitoreo regular de seguridad
 - Acceso restringido a datos personales
 
-## 7. Sus Derechos
+## 7. Sus Derechos y Eliminación de Cuenta
 
 Usted tiene derecho a:
 - Acceder a sus datos personales
@@ -72,6 +72,7 @@ Usted tiene derecho a:
 - Eliminar su cuenta y datos asociados
 - Exportar sus datos
 - Retirar consentimientos previamente otorgados
+- Para conocer cómo eliminar tu cuenta y datos personales, visita nuestra [política de eliminación de datos](data-deletion.md).
 
 ## 8. Menores de Edad
 
